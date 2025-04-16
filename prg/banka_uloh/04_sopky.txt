@@ -1,0 +1,17 @@
+fentanyl,113,1
+parek,69,0
+kastrol,21,1
+piko,17,1
+rizek,124,0
+megadobry,89,0
+fentanyl,113,1
+parek,69,0
+kastrol,21,1
+piko,17,1
+rizek,124,0
+fentanyl,113,1
+parek,69,0
+kastrol,21,1
+piko,17,1
+rizek,124,0
+megadobry,89,00
