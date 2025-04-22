@@ -1,7 +1,7 @@
-// and
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
+
+// and
 void soucin(char a[], char b[], char c[])
 {
     for (int i = 0; i < 16; i++) {
