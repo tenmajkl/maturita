@@ -1,0 +1,7 @@
+- vzdycky nejaky obecny uvod jedna veta a pak ja
+- obrazek jen porovnavani a jet podle toho textu co k tomu je
+- v kazde vete porovnavat
+- 7 minut vlastni mluveni
+- posledni je dialog 60 ja 40 zkousejici, kdyz nam dojde rec tak se ptat ucitele, aktivita
+- ptat se ucitelu taky
+- vylucovat a pak az to o cem chci mluvit hlavne
