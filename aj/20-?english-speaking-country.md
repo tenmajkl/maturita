@@ -1,3 +1,6 @@
-# country
+# USA
 
-- ne britanie -- jina zeme
+- general info bit politics (were fucked)
+- family
+- why i want
+
